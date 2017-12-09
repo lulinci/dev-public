@@ -1,4 +1,4 @@
-// String manipulations
+// String manipulations...
 //
 // reverse a string
 function reverseString(str) {
